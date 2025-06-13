@@ -25,8 +25,8 @@ const projects = [
         description:
             'A modern, responsive portfolio site built with React to showcase projects, skills, and contact info. Includes smooth scrolling, working contact form (Formspree), and reusable components.',
         tech: ['React', 'Formspree', 'Tailwind CSS', 'Framer Motion'],
-        live: 'https://yourportfolio.vercel.app', // Replace with your deployed portfolio URL
-        repo: 'https://github.com/yourusername/portfolio', // Replace with your GitHub repo
+        live: 'https://portfolio-v1-beta-olive.vercel.app/', // Replace with your deployed portfolio URL
+        repo: 'https://github.com/Vishal9569/portfolio-v1', // Replace with your GitHub repo
     }
 
 ];
