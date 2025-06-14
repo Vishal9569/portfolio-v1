@@ -21,7 +21,7 @@ export default function Navbar() {
                     <li><a href="#projects" onClick={() => setIsOpen(false)}>Projects</a></li>
                     <li><a href="#skills" onClick={() => setIsOpen(false)}>Skills</a></li>
                     <li><a href="#contact" onClick={() => setIsOpen(false)}>Contact</a></li>
-                    <li><a href="/Vishal-final-resume.pdf" className="resume-badge" download>Resume</a></li>
+                    <li><a href="/Vishal-fullstack-resume-1" className="resume-badge" download>Resume</a></li>
                 </ul>
             </div>
         </nav>
